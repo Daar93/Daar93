@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daar93.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Full Stack Development. 
-- 💞️ I’m looking to collaborate on projects from different people.
+- 💞️ I’m looking to collaborate on different projects .
 - 📫 You can reach me on Dicord discordapp.com/users/530571757623574565
 
 <!---
